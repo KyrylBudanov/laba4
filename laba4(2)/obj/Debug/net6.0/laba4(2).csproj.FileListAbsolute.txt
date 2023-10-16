@@ -1,0 +1,14 @@
+C:\Users\boris\source\repos\laba4\laba4(2)\bin\Debug\net6.0\laba4(2).exe
+C:\Users\boris\source\repos\laba4\laba4(2)\bin\Debug\net6.0\laba4(2).deps.json
+C:\Users\boris\source\repos\laba4\laba4(2)\bin\Debug\net6.0\laba4(2).runtimeconfig.json
+C:\Users\boris\source\repos\laba4\laba4(2)\bin\Debug\net6.0\laba4(2).dll
+C:\Users\boris\source\repos\laba4\laba4(2)\bin\Debug\net6.0\laba4(2).pdb
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).AssemblyInfo.cs
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).dll
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\refint\laba4(2).dll
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).pdb
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\laba4(2).genruntimeconfig.cache
+C:\Users\boris\source\repos\laba4\laba4(2)\obj\Debug\net6.0\ref\laba4(2).dll
